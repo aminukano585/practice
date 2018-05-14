@@ -1,3 +1,5 @@
-* {
-font-family: Arial, Helvetica, sans-serif;
+body {
+    text-align: center;
+    background: green;
+    font-family: Arial, Helvetica, sans-serif;
 }
